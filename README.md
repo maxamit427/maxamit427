@@ -14,26 +14,6 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-```typescript
-const AmitMax = {
-    code: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue", "Angular"],
-            css: ["Tailwind", "Sass", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "Nest.js"],
-            python: ["Django", "FastAPI", "Flask"],
-            databases: ["MongoDB", "PostgreSQL", "Redis"]
-        },
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        tools: ["Git", "Webpack", "Vite", "Jest"]
-    },
-    currentFocus: "Building scalable applications with modern architecture",
-    funFact: "I debug with console.log and I'm not ashamed! 🐛"
-};
-```
 
 <br clear="right"/>
 
