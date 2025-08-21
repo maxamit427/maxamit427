@@ -1,7 +1,7 @@
 # Hello, I'm Amit Max 👋 😺 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Amit Max ⚡!;Web+Developer...;Active+Learner...;Love+to+learn+new+technologies...&center=true&width=500&height=50" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+AmitMax⚡!;Web+Developer...;Active+Learner...;Love+to+learn+new+technologies...&center=true&width=500&height=50" alt="Typing SVG">
 </div>
 
 ###
